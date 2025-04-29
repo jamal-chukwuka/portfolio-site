@@ -10,7 +10,7 @@ Each component (About, Projects, Contact) is modular and has its own directory c
 ## Features
 
 - Modular, reusable React components.
-- Clean and modern UI inspired by [briceclain.com](https://briceclain.com/en/).
+- Clean and modern UI.
 - Ready to scale with routing, animations, or backend integration.
 - Upcoming: Toggle between React and Angular versions.
 - Upcoming: Inline display of source code for each section (like exposed brick).
