@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    gap: 20px;
+    padding: 1rem;
+    background-color: #f4f4f4;
+  }
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  a.active {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+  }
+  
